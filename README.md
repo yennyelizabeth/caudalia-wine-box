@@ -21,30 +21,6 @@ Diseñar la experiencia de usuario y rediseñar la interfaz de la web de Caudali
 ![11](https://user-images.githubusercontent.com/31896385/56906970-f325e200-6a68-11e9-8b33-4d9ca8e6693c.png)
 
 ### 1.- Presentación
-
-![caudalia-landing](https://user-images.githubusercontent.com/31896385/56912628-43a33c80-6a75-11e9-92ea-90da7fa1a124.PNG)
-
-### 2.- Sección Comparte
-
-![caudalia-comparte](https://user-images.githubusercontent.com/31896385/56913113-6d109800-6a76-11e9-8a28-79a9add7695a.png)
-
-### 3.- Sección Inspírate
-
-![caudalia-inspírate](https://user-images.githubusercontent.com/31896385/56913367-16f02480-6a77-11e9-8c5a-3a459e257b33.png)
-
-![caudalia-inspírate-2](https://user-images.githubusercontent.com/31896385/56913494-65052800-6a77-11e9-9d09-5085b092718e.png)
-
-
-### 4.- Compra
-Una tienda mejor organizadas
-![caudalia-tienda](https://user-images.githubusercontent.com/31896385/56913707-00969880-6a78-11e9-897f-742086d0e70d.png)
-
-Información de vinos sencilla e impactante
-![caudalia-información-vino](https://user-images.githubusercontent.com/31896385/56913656-d80e9e80-6a77-11e9-8a99-44f2bbef0252.png)
-
-Proceso de compra en simples pasos
-![caudalia-compras](https://user-images.githubusercontent.com/31896385/56913785-215eee00-6a78-11e9-9d2c-ef85dccf42a4.png)
-
  
 ## Proceso
 A continuación se presenta un resumen del proceso realizado en cada etapa.
