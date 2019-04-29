@@ -1,4 +1,7 @@
-![caudalia-logo](https://user-images.githubusercontent.com/31896385/56911347-59633280-6a72-11e9-872a-296497caff1c.PNG)
+
+<p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56911347-59633280-6a72-11e9-872a-296497caff1c.PNG" width="500">
+</p>
 
 ## Cliente
 Caudalia Wine Box, es una empresa que importa y distribuye los mejores vinos del mundo, las ventas las realiza a través de Facebook, whats app,  teléfono y por la tienda online 
@@ -19,7 +22,7 @@ Diseñar la experiencia de usuario y rediseñar la interfaz de la web de Caudali
 ## Solución
 
 <p align="center">
-<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56906970-f325e200-6a68-11e9-8b33-4d9ca8e6693c.pngg" width="500">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56906970-f325e200-6a68-11e9-8b33-4d9ca8e6693c.png" width="500">
 </p>
 
 ### 1.- Presentación
