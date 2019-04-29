@@ -18,7 +18,9 @@ Diseñar la experiencia de usuario y rediseñar la interfaz de la web de Caudali
 
 ## Solución
 
-![11](https://user-images.githubusercontent.com/31896385/56906970-f325e200-6a68-11e9-8b33-4d9ca8e6693c.png)
+<p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56906970-f325e200-6a68-11e9-8b33-4d9ca8e6693c.pngg" width="500">
+</p>
 
 ### 1.- Presentación
  
@@ -29,17 +31,27 @@ A continuación se presenta un resumen del proceso realizado en cada etapa.
  
 a. Alineación de requisitos En el proceso de descubrimiento, se identificaron requisitos, los cuales se integraron y se alinearon:
 
-![caudalia-a](https://user-images.githubusercontent.com/31896385/56904015-07ff7700-6a63-11e9-8c6c-d92469bed3fa.PNG)
+<p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56904015-07ff7700-6a63-11e9-8c6c-d92469bed3fa.PNG" width="700">
+</p>
+
 
 b. Formulación de la situación actual Se construyó un arquetipo llamado Marco para facilitar la formulación de la situación inicial actual, para comprender posteriormente la problemática alrededor.
-![caudalia-b](https://user-images.githubusercontent.com/31896385/56904182-69274a80-6a63-11e9-9f66-4a0d53dc5418.PNG)
+<p align="center">
+ 
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56904182-69274a80-6a63-11e9-9f66-4a0d53dc5418.PNG" width="700">
+</p>
+
 
 ### Empatía
 Para validar la formulación de la situación actual y encontrar el problema, se realizaron entrevistas y encuestas a usuarios, para conocer sus preferencias, expectativas, su percepción de la web actual en cuanto a información y proceso de compras. 
  
 a. User Person Para resumir los hallazgos, se utilizó la construcción de un User Person, lo cual nos permite agrupar y comprender sus necesidades
 
-![caudalia-c](https://user-images.githubusercontent.com/31896385/56904416-ce7b3b80-6a63-11e9-99d8-c8867d6c345f.PNG)
+<p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56904416-ce7b3b80-6a63-11e9-99d8-c8867d6c345f.PNG" width="700">
+</p>
+
 
 Asimismo se realizó la observación de otros actores relacionados a la empresa, como competencia como lo es la sección de vinos en el supermercado Wong y el restaurant del hotel Marriot en Miraflores, para identificar  debilidades, fortalezas y oportunidades de mejora. 
 
