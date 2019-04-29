@@ -26,6 +26,10 @@ Diseñar la experiencia de usuario y rediseñar la interfaz de la web de Caudali
 </p>
 
 ### 1.- Presentación
+
+ <p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/56918522-df3ba980-6a83-11e9-90e5-71c05a5671d7.PNG" width="700">
+</p>
  
 ## Proceso
 A continuación se presenta un resumen del proceso realizado en cada etapa.
